@@ -2,6 +2,14 @@
 
 ## Table of contents
 1. [Mate](#mate)
+2. [Homemade Mate Lemonade](#lemonade)
+3. [Mocktails](#mocktails)
+4. [With Sparkling Wine](#sparkling)
+5. [With Vodka](#vodka)
+6. [With Rum](#rum)
+7. [With Gin](#gin)
+8. [With Whisky](#whisky)
+9. [With Absinth](#absinth)
 
 ## Mate<a name="mate"></a>
 
@@ -24,7 +32,7 @@ We have the following brands and sorts:
 * 1337MATE
 * brewed Mate lemonade
 
-## Homemade Mate Lemonade
+## Homemade Mate Lemonade<a name="lemonade"></a>
 
 * 4 bags of Mate tea
 * 250 ml hot water
@@ -33,7 +41,7 @@ We have the following brands and sorts:
 * Some time
 * This can be combined with for example ginger
 
-## Mocktail
+## Mocktails<a name="mocktails"></a>
 
 ### Sweet Mate
 * 4 cl Mate
@@ -54,7 +62,7 @@ We have the following brands and sorts:
 * Lime
 * Spicey Ginger
 
-## With Sparkling Wine
+## With Sparkling Wine <a name="sparkling"></a>
 
 ### Kir Berlin or Turbo Mate
 * 1:1 Club Mate and Sparkling Wine, serve with crushed ice
@@ -66,7 +74,7 @@ We have the following brands and sorts:
 * 3 cl Sparkling Wine
 * Soda
 
-## With Vodka
+## With Vodka <a name="vodka"></a>
 
 ### Matrioschka
 * Brown sugar
@@ -82,7 +90,7 @@ We have the following brands and sorts:
 * Brown Sugar
 * Ice cubes
 
-## With Rum
+## With Rum <a name="rum"></a>
 
 ## Tschunk
 * 50 ml Rum
@@ -109,7 +117,7 @@ We have the following brands and sorts:
 * 2 cl Coconut sirup
 * Pineapple juice
 
-## With Gin
+## With Gin<a name="gin"></a>
 
 ### Matronic
 * 70 ml Mate
@@ -123,7 +131,7 @@ We have the following brands and sorts:
 * Lemon juice
 * Mate
 
-## With Whisky
+## With Whisky<a name="whisky"></a>
 
 ### Simple Mixture
 * one part Mate, two parts Whisky
@@ -136,7 +144,7 @@ We have the following brands and sorts:
 * 1 EL Cassis sirup
 * 22 cl Mate
 
-## With Absinth
+## With Absinth<a name="absinth"></a>
 
 ### Mate Fee
 * 100 ml Mate
