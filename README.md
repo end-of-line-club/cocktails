@@ -1,5 +1,10 @@
 # Cocktails and Longdrinks
 
+## Table of contents
+1. [Mate](#mate)
+
+## Mate<a name="mate"></a>
+
 We especially feature Mate cocktails and longdrinks.
 We have the following brands and sorts:
 
@@ -104,7 +109,7 @@ We have the following brands and sorts:
 * 2 cl Coconut sirup
 * Pineapple juice
 
-## With gin
+## With Gin
 
 ### Matronic
 * 70 ml Mate
