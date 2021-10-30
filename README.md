@@ -9,7 +9,7 @@
 6. [With Rum](#rum)
 7. [With Gin](#gin)
 8. [With Whisky](#whisky)
-9. [With Absinth](#absinth)
+9. [Others](#absinth)
 
 ## Mate<a name="mate"></a>
 
@@ -62,6 +62,10 @@ We have the following brands and sorts:
 * Lime
 * Spicey Ginger
 
+### Mate Fanta
+* Mate, especially good with our homemade lemonade
+* Fanta
+
 ## With Sparkling Wine <a name="sparkling"></a>
 
 ### Kir Berlin or Turbo Mate
@@ -89,6 +93,12 @@ We have the following brands and sorts:
 * 1-2 Limes
 * Brown Sugar
 * Ice cubes
+
+ ### MWKK
+ * Mate
+ * Vodka
+ * Kümmerling
+ * Cherry liquor
 
 ## With Rum <a name="rum"></a>
 
@@ -144,8 +154,16 @@ We have the following brands and sorts:
 * 1 EL Cassis sirup
 * 22 cl Mate
 
-## With Absinth<a name="absinth"></a>
+## Others<a name="absinth"></a>
 
 ### Mate Fee
 * 100 ml Mate
 * 1 cl Absinth
+
+### El Mariachi
+* Tequila
+* Jägermeister
+* Sirup
+* Mate
+* Ginger
+* Cinnamon
